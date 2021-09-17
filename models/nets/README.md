@@ -1,0 +1,1 @@
+This project is re-construction of [CangJe](http://git.corp.kuaishou.com/zhangzhiwei/CangJe).
